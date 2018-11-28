@@ -10,8 +10,9 @@ An interactive system that monitors, encourages, analyses or supports people's h
 #### Installing
 
 - Install Android Studio https://developer.android.com/studio/ and click on File > Open > HCI4AX2018 to open the project.
+- Android Studio will automatically build the .gradle folder.
 - Click on Run > Run 'app' to run the application on an emulator or a mobile phone
-- OR Install https://github.com/WoonYongQuanLeslie/HCI4AX2018/blob/master/app-debug.apk directly from your Android phone
+- OR skip the first 3 steps and install https://github.com/WoonYongQuanLeslie/HCI4AX2018/blob/master/app-debug.apk directly from your Android phone
 
 #### Troubleshooting
 - If there is an authentication error with the Google maps api key, navigate to the folder \HCI4AX2018\app\src\debug\res\values and edit the value in google_maps_api.xml
