@@ -3,6 +3,7 @@
 An interactive system that monitors, encourages, analyses or supports people's health.
 
 #### Prerequisites
+
 - Android Studio
 - Valid Google maps key (Only required if there is authentication error)
 - An Android device that currently has Android version 9 or above firmware
@@ -15,6 +16,7 @@ An interactive system that monitors, encourages, analyses or supports people's h
 - OR skip the first 3 steps and install https://github.com/WoonYongQuanLeslie/HCI4AX2018/blob/master/app-debug.apk directly from your Android phone
 
 #### Troubleshooting
+
 - If there is an authentication error with the Google maps api key, navigate to the folder \HCI4AX2018\app\src\debug\res\values and edit the value in google_maps_api.xml
 
 #### Built With
@@ -24,7 +26,11 @@ An interactive system that monitors, encourages, analyses or supports people's h
 * [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room)
 
 #### Authors
+
 - Nur Ziana Binte Mohd Zubaidi
 - Toh Lee Yang
 - Woon Yong Quan Leslie 
 
+#### Screenshots
+
+- https://www.dropbox.com/sh/mjnzgo2lo3qxfgv/AAAGDHnHIhXwJcUmMFTmu9Qga?dl=0
